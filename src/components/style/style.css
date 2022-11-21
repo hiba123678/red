@@ -1,0 +1,10 @@
+.boxHome{
+   /* You must set a specified height */
+    /* background-position: center; /* Center the image */
+    /* Do not repeat the image */
+    /* background-size: cover; 
+    
+   height: 46rem; */
+
+   position: relative;
+}

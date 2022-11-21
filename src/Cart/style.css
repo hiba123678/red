@@ -1,0 +1,16 @@
+.link{
+  text-decoration: none;
+  }
+  .cardDetails{
+    display: flex;
+    margin-top: 10%;
+    width: 100%;
+    justify-content: space-between;
+  }
+  .checkoutButton{
+    min-width: 150px;
+  }
+  .emptyButton{
+    min-width: 150px;  
+  }
+  .title{margin-top: 5%;}
